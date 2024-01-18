@@ -5,7 +5,7 @@ Computer Science Graduate having knowledge in Robotics Process Automation and Da
 ⚡ I’m interested in the area of Data Science and NLP.
 👯 I’m always open to meaningful collaborations.
 
-🌱 I’m currently pursuing my Masters in Big Data Science and Machine Learning from Queen Mary, University of London and in my leisure time I teach coding to kids in collobration with GeekyKids London.
+🌱 Completed my Masters in Big Data Science and Machine Learning from Queen Mary, University of London and in my leisure time I teach coding to kids in collobration with GeekyKids London.
 
 👀 I’m interested in Machine Learning, Data Engineering, Blockchain, Cloud Computing, NLP, MLOps, and AI.
 
