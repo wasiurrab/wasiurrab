@@ -1,59 +1,88 @@
-👋 Hi, I'm Wasiur Rab
-📊 Data Analyst | Data Enthusiast | Problem Solver
+Hi there, I'm Wasiur Rab! 👋
 
-🚀 Passionate about transforming data into meaningful insights, I specialize in data analytics, visualization, and automation. With hands-on experience in Python, SQL, Excel, Power BI, and Tableau, I love leveraging data to drive business decisions.
+📊 Data Science Graduate | 🤖 Robotics Process Automation Enthusiast | 🧠 Machine Learning & NLP Explorer
 
-🌍 Based in London, UK, I have worked with financial services and tech companies to optimize processes, manage large datasets, and develop automated systems.
-🔧 Technical Skills & Tools
+🔭 Currently Working On:
 
-    Programming & Analytics: Python (Pandas, NumPy), SQL, Excel (Advanced), Power BI, Tableau
-    Data Processing & Visualization: Data Cleaning, Validation, Statistical Analysis, Data Storytelling
-    Automation & AI: Predictive Modeling, Machine Learning, Report Automation
-    Project Management: Agile, IT Service Delivery, Strategic Planning
+    Machine Learning and Deep Learning projects, with a focus on Reinforcement Learning (RL) and Natural Language Processing (NLP).
 
-💼 Work Experience
-Customer Data Work | Capgemini Financial Services
+    Developing an RL agent using SARSA to predict optimal actions for table-top games.
 
-📅 Mar 2024 – Jun 2024 | London, UK
-🔹 Managed $7 trillion in client assets, resolving 95% of data requests within 24 hours
-🔹 Developed Excel & Power BI dashboards for financial performance insights
-🔹 Improved client satisfaction by 20% through data-driven solutions
-Data Analyst | SarTech Info
+⚡ Interests:
 
-📅 Aug 2020 – Sept 2021 | India
-🔹 Built dynamic dashboards in Tableau & Power BI, enabling real-time analytics
-🔹 Automated reporting with Python, reducing manual effort by 25%
-🔹 Enhanced data accuracy by 20% through improved validation processes
-Junior Data Analyst Intern | Paradigm Pioneer Group
+    Machine Learning, Data Engineering, Blockchain, Cloud Computing, NLP, MLOps, and AI.
 
-📅 May 2018 – Aug 2018 | UAE
-🔹 Analyzed business performance data using SQL, Pandas, and Excel
-🔹 Created an automated reporting system, boosting efficiency by 40%
-📚 Education & Certifications
+    Exploring innovative ways to apply data science in real-world scenarios.
 
-🎓 MSc. Big Data Science with Machine Learning – Queen Mary University of London (2022-2023)
-🎓 B.Tech Computer Science Engineering – Al Falah University (2016-2020)
-📜 Data Analytics Bootcamp (La Wagon, 2024) – 360+ hours of Python, SQL, and Data Visualization training
-🔬 Projects
-🎵 Music Classifier using Machine Learning
+👯 Collaborations:
 
-🔹 Built an ML audio classification model using Librosa for feature extraction
-🔹 Achieved 75% test accuracy using Decision Trees
-🔹 Created an interactive web app with Streamlit
-👕 Fashion MNIST Classification with MLP-Mixer
+    Always open to meaningful collaborations in Data Science, Machine Learning, and AI.
 
-🔹 Implemented MLP-mixer architecture with PyTorch, achieving 85.36% accuracy
-🔹 Processed data in patches for improved classification performance
-📈 Social Media Analytics Project
+    Passionate about working on projects that leverage Reinforcement Learning, NLP, and predictive modeling.
 
-🔹 Analyzed TikTok, Instagram & YouTube trends to derive engagement insights
-🔹 Provided data-driven recommendations for marketing strategies
-📩 Let's Connect!
+🌱 Recent Achievements:
 
-📧 Email: wasiurrab@gmail.com
-🔗 LinkedIn: linkedin.com/in/wasiurrab
-💻 GitHub: github.com/wasiurrab
-🌐 Portfolio: wasiur-profile
-📊 Data Visualization Reports: Looker Studio
+    Completed my MSc in Big Data Science and Machine Learning from Queen Mary University of London.
 
-🚀 I’m always open to collaboration, learning, and exploring new opportunities in Data Analytics!
+    Teach coding to kids in collaboration with GeekyKids London during my leisure time.
+
+🛠️ Technical Skills
+
+    Programming Languages: Python, SQL
+
+    Machine Learning & Deep Learning: Scikit-learn, TensorFlow, PyTorch, Reinforcement Learning (SARSA), NLP
+
+    Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+
+    Data Manipulation: Pandas, NumPy, Excel
+
+    Automation: Robotics Process Automation (RPA)
+
+    Tools & Platforms: Git, Streamlit, Confluence, Origo
+
+🚀 Projects
+Music Classifier using Machine Learning
+
+    Developed an ML audio classification pipeline using a dataset of 800 recordings.
+
+    Achieved 75% test accuracy with a decision tree model using Librosa for feature extraction.
+
+    Built an interactive web app with Streamlit for user-friendly interaction.
+
+MNIST Fashion Dataset Classification using MLP-Mixer Architecture
+
+    Implemented the MLP-Mixer architecture using PyTorch on the MNIST fashion dataset.
+
+    Achieved 85.36% accuracy by processing data in patches.
+
+Reinforcement Learning in Games AI
+
+    Researching and developing an RL agent using SARSA to predict the best actions for table-top games.
+
+Social Media Analysis Project
+
+    Analyzed user behavior and content trends across TikTok, Instagram, and YouTube.
+
+    Identified engagement patterns and virality factors, providing strategic insights for marketers and content creators.
+
+📚 Education
+
+    MSc in Big Data Science and Machine Learning, Queen Mary University of London (Jan 2022 - Oct 2023)
+
+    B.Tech in Computer Science Engineering, Al Falah University, India (May 2016 - Aug 2020)
+
+    Data Analytics Bootcamp, La Wagon, London (2024)
+
+🏆 Certifications
+
+    Bootcamp Accredited by BCS (British Computer Society), The Chartered Institute of IT
+
+    12-week Full-Time Intensive Coding Bootcamp in Data Analytics using Python, La Wagon
+
+💡 Fun Facts
+
+    I enjoy teaching coding to kids and inspiring the next generation of tech enthusiasts.
+
+    I’m passionate about exploring how AI and machine learning can transform industries like gaming, healthcare, and finance.
+
+    In my free time, I love experimenting with new datasets and building interactive data visualizations.
